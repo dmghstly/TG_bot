@@ -7,7 +7,7 @@ import random
 
 # need to implement rock paper cissors
 # need to implement the game dice
-bot = telebot.TeleBot("5801656587:AAFQ52gnwIL-n2ey1N3Ny9Jl4VC0qDajex4")
+bot = telebot.TeleBot("some key")
 rps_dict = {1: ":rock:", 2: ":scroll:", 3: ":scissors:"}
 dice_dict = {1: "\u2680", 2: "\u2681", 3: "\u2682",
              4: "\u2683", 5: "\u2684", 6: "\u2685"}
